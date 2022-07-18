@@ -4,16 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![jamaal](/assets/images/jamaal.jpeg)
+WHY HALAL POINT ON SALE?
 
-Waa Halalpos School oo ah school lagu barto sida loo isticmaalo Halal Point on Sale oo ah system point on sale kan ugu casrisan.
+HALALPOS is All in One, best advanced stock management, point of sale & invoicing application, flexibility of use in the cloud or on-premise.
 
-Marka aad barato sida loo isticmmaalo Halal point on sale dee waxaad noqon qof xariif ah oo si wacan u fahamaya wax kasta oo ganacsiga ku saabsan.
+HALALPOS comes with lots of features out-of-box. You get most of the feature needed by small & Medium sized businesses to simplify the time-consuming task of accounting & inventory management and instead focus on what really matters – Your Business.
 
-Insha Allah, Halal Point on Sale waxey noqon doontaa midka ugu horeeysa oo Somalia oo dhan laga isticmaali doono.
+We have developed the application keeping in mind the following things:
 
-Hadaba maxaa sugaysa walaal? Qalin iyo buug soo qaado oo ku soo biir schoolkan oo free ah wax badana aad ka baran doonto.
+- Keep it simple yet very detailed.
 
-Good Luck and Best Wishes.
+- Automated time-consuming tasks (like calculating selling price based on default profit margin).
 
-**Macalim Dhagoole, the school administrator**.
+- Provide many customizations options to personalize the application as per your business.
+
+- Ease of use.
+
+![jamaal](/assets/images/ult.png)
