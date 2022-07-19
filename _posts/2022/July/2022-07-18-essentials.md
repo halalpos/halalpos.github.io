@@ -14,3 +14,5 @@ Waxan halkan ku baraneynaa waxa loo yaqaano Essentials oo ah module aad ku qaban
 5. Messages
 6. Knowledge Base
 7. Settings
+
+Modulkan waxaa si gaar ah u baranaya staff manager oo ha iska iloobaan Excel iyo wixii kale ee qashin ay isticmaalaan. Waa laga qashin baxey spreadsheet oo dhan.

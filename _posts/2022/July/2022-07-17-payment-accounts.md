@@ -10,7 +10,6 @@ tags:
     cash flow,
     payment account report,
   ]
-order:
 ---
 
 Waxynu halkan ku baraneynaa wax kasta oo ku saabsan payment accounts oo ah akoontiga lacagta iyo in dabagal lagu sameeyo wixii lacag ee soo gala (money in) iyo wixii lacag ee ka baxa ganacsiga (money out). Waxaana ka mid ah waxeynu baraneyno:
