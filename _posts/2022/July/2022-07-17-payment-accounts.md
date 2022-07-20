@@ -1,5 +1,5 @@
 ---
-title: Lesson 8. Payment Accounts
+title: Payment Accounts
 date: 2022-07-17
 categories: [Payment Accounts]
 tags:

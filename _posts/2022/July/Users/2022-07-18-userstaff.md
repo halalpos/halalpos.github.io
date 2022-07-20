@@ -1,5 +1,5 @@
 ---
-title: About User Mamangement (Hordhac)
+title: User Management (Hordhac)
 date: 2022-07-18
 categories: [User Management]
 tags: users

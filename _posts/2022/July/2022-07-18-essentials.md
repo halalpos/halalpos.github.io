@@ -1,5 +1,5 @@
 ---
-title: Lesson 12. Essentials
+title: Essentials
 date: 2022-07-18
 categories: Essentials
 tags: [to do, documents, memos, reminders, messages, knowledge base, settings]

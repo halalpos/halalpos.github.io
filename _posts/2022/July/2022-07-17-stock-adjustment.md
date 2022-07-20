@@ -1,5 +1,5 @@
 ---
-title: Lesson 6. Stock Adjustment
+title: Stock Adjustment
 date: 2022-07-18
 categories: [Stock Adjustment]
 tags: [list stock adjustment, add stock adjustment]
