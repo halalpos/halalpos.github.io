@@ -5,7 +5,7 @@ categories: [User Management]
 tags: users
 ---
 
-![users](/assets/images/1.png)
+![users](/assets/images/1.png){: .left }
 
 Shirkad ama ganacsi kasta waxaa u jooga oo ay leeyihiin dad shaqada halkaas ka qabta oo loo yaqaano employees, staff, contractors, sales agents, friends, iyo family members.
 
