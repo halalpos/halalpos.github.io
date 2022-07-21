@@ -88,7 +88,7 @@ avatar: "https://scontent.ffcm1-2.fna.fbcdn.net/v/t39.30808-6/294002210_31799839
 # boolean type, the global switch for ToC in posts.
 toc: false
 
-comments: true
+comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
