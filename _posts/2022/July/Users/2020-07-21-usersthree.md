@@ -1,6 +1,6 @@
 ---
 title: Lesson 1. Adding Users (Part 3)
-date: 2022-07-17
+date: 2022-07-21
 categories: [User Management]
 tags: users
 ---
@@ -23,7 +23,8 @@ Pageka lagu qoro users waa mid weyn oo ku jira waxyaabo badan oo ku saabsan user
 10. **City** Magaalada degan tahey.
 11. **State**: Gobolka degan tahey.
 12. **Country**: Wadanka joogto.
-    [](https://drive.google.com/file/d/1G-Z8_pKzL0RDaeWbNnDqClUaio70itBl/view?usp=sharing)
+
+![users](https://drive.google.com/file/d/1G-Z8_pKzL0RDaeWbNnDqClUaio70itBl/)
 
 Runtii waxaa meeshas kor ku qoran qaarkood waxa loo baahanyehy ma ahan. Waxa ugu muhiimsan waa Mobile number, Date of Birth, Family contact number, Gender, Home Address, iyo City. Inta kale waad ka boodi kartaa.
 

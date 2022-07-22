@@ -1,6 +1,6 @@
 ---
 title: Stock Adjustment
-date: 2022-07-18
+date: 2022-07-20
 categories: [Stock Adjustment]
 tags: [list stock adjustment, add stock adjustment]
 ---
