@@ -1,6 +1,6 @@
 ---
 title: Essentials
-date: 2022-07-20
+date: 2022-07-19
 categories: Essentials
 tags: [to do, documents, memos, reminders, messages, knowledge base, settings]
 ---
