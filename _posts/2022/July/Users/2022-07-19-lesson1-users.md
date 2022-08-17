@@ -1,5 +1,5 @@
 ---
-title: Lesson 1. Users (Part 1)
+title: Part 1 - Users
 date: 2022-07-22
 categories: [User Management]
 tags: users

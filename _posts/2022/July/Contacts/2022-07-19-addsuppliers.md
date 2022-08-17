@@ -1,7 +1,7 @@
 ---
-title: Lesson 2. Add Suppliers
+title: Add Suppliers
 date: 2022-07-21
-categories: [Contacts]
+categories: Contacts
 tag: suppliers
 ---
 

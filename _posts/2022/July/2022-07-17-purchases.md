@@ -1,7 +1,7 @@
 ---
-title: All About  Purchase
+title: All About Purchase
 date: 2022-07-20
-categories: [Purchase]
+categories: Purchase
 tags: [purchase order, list purchase, add purchase, list purchase return]
 ---
 

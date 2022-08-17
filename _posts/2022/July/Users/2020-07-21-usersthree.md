@@ -1,5 +1,5 @@
 ---
-title: Lesson 1. Adding Users (Part 3)
+title: Part 3 - Adding Users
 date: 2022-07-20
 categories: [User Management]
 tags: users

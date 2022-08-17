@@ -1,5 +1,5 @@
 ---
-title: Lesson 2. All Contacts (Hordhac)
+title: All Contacts (Hordhac)
 date: 2022-07-23
 categories: Contacts
 tags: [customers, suppliers, vendors, creditors, customer groups]
